@@ -111,8 +111,8 @@ streamlit run models\streamlit_app.py
 ```
 http://localhost:8501
 ```
-
----
+**Live Demo :**
+https://iris-flower-classifier-shreya8350.streamlit.app/
 
 **License :**
 This project is built for educational and demonstration purposes. The Iris dataset is publicly available and in the public domain.
